@@ -1,0 +1,1160 @@
+{
+   "mainMissions": [
+      {
+         "id": 1,
+         "name": "Recover the Relics",
+         "number": 11,
+         "description": ""
+      },
+      {
+         "id": 2,
+         "name": "Tear Down Their Icons",
+         "number": 12,
+         "description": ""
+      },
+      {
+         "id": 3,
+         "name": "Data Scry-salvage",
+         "number": 13,
+         "description": ""
+      },
+      {
+         "id": 4,
+         "name": "Abandoned Sanctuaries",
+         "number": 21,
+         "description": ""
+      },
+      {
+         "id": 5,
+         "name": "Conversion",
+         "number": 22,
+         "description": ""
+      },
+      {
+         "id": 6,
+         "name": "The Scouring",
+         "number": 23,
+         "description": ""
+      },
+      {
+         "id": 7,
+         "name": "Tide of Conviction",
+         "number": 31,
+         "description": ""
+      },
+      {
+         "id": 8,
+         "name": "Death and Zeal",
+         "number": 32,
+         "description": ""
+      },
+      {
+         "id": 9,
+         "name": "Secure Missing Artefacts",
+         "number": 33,
+         "description": ""
+      }
+   ],
+   "secondaryMissions": [
+      {
+         "id": 1,
+         "name": "Codex warfare",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": true,
+         "faction": 1
+      },
+      {
+         "id": 2,
+         "name": "Oaths of moment",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 1
+      },
+      {
+         "id": 3,
+         "name": "Shock tactics",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 1
+      },
+      {
+         "id": 4,
+         "name": "Bathe your Blade in the blood of the foe",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 2
+      },
+      {
+         "id": 5,
+         "name": "Carry out your vows",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 2
+      },
+      {
+         "id": 6,
+         "name": "Allow not the worship of unclean idols",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 2
+      },
+      {
+         "id": 7,
+         "name": "Blade of Sanguinius",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 3
+      },
+      {
+         "id": 8,
+         "name": "Fury of the lost",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 3
+      },
+      {
+         "id": 9,
+         "name": "Death from above",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 3
+      },
+      {
+         "id": 10,
+         "name": "Relentless assault",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 3
+      },
+      {
+         "id": 11,
+         "name": "Martial interdiction",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 4
+      },
+      {
+         "id": 12,
+         "name": "Stubborn defiance",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 4
+      },
+      {
+         "id": 13,
+         "name": "Death on the wind",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 4
+      },
+      {
+         "id": 14,
+         "name": "Cull order",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 5
+      },
+      {
+         "id": 15,
+         "name": "Cripple stronghold",
+         "description": "",
+         "category": "Shadow operations",
+         "selected": false,
+         "faction": 5
+      },
+      {
+         "id": 16,
+         "name": "The long vigil",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 5
+      },
+      {
+         "id": 17,
+         "name": "Suffer not the alien",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 5
+      },
+      {
+         "id": 18,
+         "name": "Bolster barricades",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 6
+      },
+      {
+         "id": 19,
+         "name": "Cold fury",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 7
+      },
+      {
+         "id": 20,
+         "name": "Secure or sabotage",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 8
+      },
+      {
+         "id": 21,
+         "name": "The promethean creed",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 9
+      },
+      {
+         "id": 22,
+         "name": "Heroic Challenge",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 10
+      },
+      {
+         "id": 23,
+         "name": "Warrior pride",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 10
+      },
+      {
+         "id": 24,
+         "name": "A mighty saga",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 10
+      },
+      {
+         "id": 25,
+         "name": "Glory kills",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 10
+      },
+      {
+         "id": 26,
+         "name": "We march for Macragge",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 11
+      },
+      {
+         "id": 27,
+         "name": "Lightning strike",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 12
+      },
+      {
+         "id": 28,
+         "name": "Slay the heretic",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 13
+      },
+      {
+         "id": 29,
+         "name": "Sacred grounds",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 13
+      },
+      {
+         "id": 30,
+         "name": "Defend the shrine",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 13
+      },
+      {
+         "id": 31,
+         "name": "A leap of faith",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 13
+      },
+      {
+         "id": 32,
+         "name": "Auric mortalis",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 14
+      },
+      {
+         "id": 33,
+         "name": "Might of Terra",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 14
+      },
+      {
+         "id": 34,
+         "name": "Stand vigil",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 14
+      },
+      {
+         "id": 35,
+         "name": "Accretion of knowledge",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 15
+      },
+      {
+         "id": 36,
+         "name": "Uncharted sequencing",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 15
+      },
+      {
+         "id": 37,
+         "name": "Hidden archeovault",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 15
+      },
+      {
+         "id": 38,
+         "name": "Eradication of flesh",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 15
+      },
+      {
+         "id": 39,
+         "name": "By lasgun and bayonet",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 16
+      },
+      {
+         "id": 40,
+         "name": "Boots on the ground",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 16
+      },
+      {
+         "id": 41,
+         "name": "Special orders",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 16
+      },
+      {
+         "id": 42,
+         "name": "inflexible Command",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 16
+      },
+      {
+         "id": 43,
+         "name": "Yield no ground",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 17
+      },
+      {
+         "id": 44,
+         "name": "Renew the oaths",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 17
+      },
+      {
+         "id": 45,
+         "name": "Honour of the house",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 17
+      },
+      {
+         "id": 46,
+         "name": "Duel of honour",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 17
+      },
+      {
+         "id": 47,
+         "name": "Destroy the daemon",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 18
+      },
+      {
+         "id": 48,
+         "name": "Purifying ritual",
+         "description": "",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 18
+      },
+      {
+         "id": 49,
+         "name": "Teleport assault",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 18
+      },
+      {
+         "id": 50,
+         "name": "Rise to glory",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 19
+      },
+      {
+         "id": 51,
+         "name": "For the dark gods",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 19
+      },
+      {
+         "id": 52,
+         "name": "The long war",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 19
+      },
+      {
+         "id": 53,
+         "name": "Infiltrate and subvert",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 20
+      },
+      {
+         "id": 54,
+         "name": "Despoil dominions",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 21
+      },
+      {
+         "id": 55,
+         "name": "Speciments for the spider",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 22
+      },
+      {
+         "id": 56,
+         "name": "Adorn the canvas eclectic",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 23
+      },
+      {
+         "id": 57,
+         "name": "Masters of demolition",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 24
+      },
+      {
+         "id": 58,
+         "name": "Sow the seed, reap the fear",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 25
+      },
+      {
+         "id": 59,
+         "name": "Raid and reave",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 26
+      },
+      {
+         "id": 60,
+         "name": "Exalt the dark gods",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 27
+      },
+      {
+         "id": 61,
+         "name": "Skulls for the skull throne",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 28
+      },
+      {
+         "id": 62,
+         "name": "Fleeing vectors",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 29
+      },
+      {
+         "id": 63,
+         "name": "Despoiled ground",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 29
+      },
+      {
+         "id": 64,
+         "name": "Spread the sickness",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 29
+      },
+      {
+         "id": 65,
+         "name": "Sorcerous prowess",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 30
+      },
+      {
+         "id": 66,
+         "name": "Mutate landscape",
+         "description": "",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 30
+      },
+      {
+         "id": 67,
+         "name": "Wrath of Magnus",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 30
+      },
+      {
+         "id": 68,
+         "name": "Burn empires",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 30
+      },
+      {
+         "id": 69,
+         "name": "Ruthless tyranny",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 31
+      },
+      {
+         "id": 70,
+         "name": "Storm of darkness",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 31
+      },
+      {
+         "id": 71,
+         "name": "Path of destruction",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 31
+      },
+      {
+         "id": 72,
+         "name": "A fitting challenge",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 31
+      },
+      {
+         "id": 73,
+         "name": "Reality rebels",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 32
+      },
+      {
+         "id": 74,
+         "name": "Despoilers of reality",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 32
+      },
+      {
+         "id": 75,
+         "name": "Nourished by terror",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 32
+      },
+      {
+         "id": 76,
+         "name": "The hidden path",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 33
+      },
+      {
+         "id": 77,
+         "name": "Scry futures",
+         "description": "",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 33
+      },
+      {
+         "id": 78,
+         "name": "Scout the enemy",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 33
+      },
+      {
+         "id": 79,
+         "name": "Wrath of Khaine",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 33
+      },
+      {
+         "id": 80,
+         "name": "Take them alive!",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 34
+      },
+      {
+         "id": 81,
+         "name": "Fear and terror",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 34
+      },
+      {
+         "id": 82,
+         "name": "Herd the prey",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 34
+      },
+      {
+         "id": 83,
+         "name": "Beasts for the arenas",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 34
+      },
+      {
+         "id": 84,
+         "name": "Take your places",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 35
+      },
+      {
+         "id": 85,
+         "name": "Weave veil",
+         "description": "",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 35
+      },
+      {
+         "id": 86,
+         "name": "A deadly performance",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 35
+      },
+      {
+         "id": 87,
+         "name": "Synaptic insight",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 36
+      },
+      {
+         "id": 88,
+         "name": "Spore nodes",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 36
+      },
+      {
+         "id": 89,
+         "name": "Cranial feasting",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 36
+      },
+      {
+         "id": 90,
+         "name": "Broodswarm",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 37
+      },
+      {
+         "id": 91,
+         "name": "Sabotage critical location",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 37
+      },
+      {
+         "id": 92,
+         "name": "Ambush",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 37
+      },
+      {
+         "id": 93,
+         "name": "Ancient machineries",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 38
+      },
+      {
+         "id": 94,
+         "name": "Code of combat",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 38
+      },
+      {
+         "id": 95,
+         "name": "Purge the vermin",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 38
+      },
+      {
+         "id": 96,
+         "name": "The treasures of aeons",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 38
+      },
+      {
+         "id": 97,
+         "name": "Stop'em good",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 39
+      },
+      {
+         "id": 98,
+         "name": "Green tide",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 39
+      },
+      {
+         "id": 99,
+         "name": "Get da goodd bitz",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 39
+      },
+      {
+         "id": 100,
+         "name": "Da biggest and da best",
+         "description": "",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 39
+      },
+      {
+         "id": 101,
+         "name": "Decisive action",
+         "description": "",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 40
+      },
+      {
+         "id": 102,
+         "name": "Aerospace targeting relays",
+         "description": "",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 40
+      },
+      {
+         "id": 103,
+         "name": "A clean victory",
+         "description": "",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 40
+      },
+      {
+         "id": 104,
+         "name": "Assasination",
+         "description": "Score 3 victory points at the end of the battle for each enemy Character unit that is destroyed. At the end of the battle, if the enemy Warlord is destroyed, score 1 extra victory point.",
+         "category": "Purge the enemy",
+         "selected": true,
+         "faction": 0
+      },
+      {
+         "id": 105,
+         "name": "Bring it down",
+         "description": "At the end of the battle, score victory points for each enemy Monster or Vehicle model that is destroyed, as follows:\n               Score 1 victory point for each of those destroyed models with a Wounds characteristic of 9 or less.\n               Score 2 victory points for each of those destroyed models with a Wounds characteristic of 10-14 or less.\n               Score 3 victory points for each of those destroyed models with a Wounds characteristic of 15-19 or less.\n               Score 4 victory points for each of those destroyed models with a Wounds characteristic of 20 or more.",
+         "category": "Purge the enemy",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 106,
+         "name": "Grind them down",
+         "description": "Score 3 victory points at the end of the battle round if more enemy units than friendly units were destroyed this battle round.",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 107,
+         "name": "No prisioners",
+         "description": "If you selectt this objective, keep a Kill Points tally. Each time an enemy model is destroyed (excluding Vehicle, Monster or Character models), add a number of marks to this tally equal to the Wounds characteristic of the destroyed model. At the end of the battle, divide your Kill Points tally by 10 and round down - the result is the number of victory points you score. In addition, if your Kill Points tally is between 50 and 99, you score 1 additional victory point, and if your tally is 100 or more, you score 2 additional victory points.",
+         "category": "No mercy, no respite",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 108,
+         "name": "Abhor the witch",
+         "description": "You cannot select this secondary objective if your army includes any Psyker units. Score 3 victory points at the end of the battle for each enemy Psyker Character unit that is destroyed, and 2 victory points for every other nemy Psyker unit that is destroyed.",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 109,
+         "name": "Warp ritual",
+         "description": "If you select this objective, keep a Ritual Points tally; add 1 to that tally each time a unit from your army completes the following psychic action during the battle:\n            \n            Warp Ritual (Psychic Action - Warp Charge 3): One Psyker Character unit from your army can attempt to perform this psychic action in your Psychic phase if it is within 6\" of the centre of the battlefield.\n            \n            At the end of tthe battle, score 3 victory points if your Ritual Points tally is 1, score 7 victory points if your tally is 2, or score 12 victory points if your tally is 3 or more.",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 110,
+         "name": "Psychic interrogation",
+         "description": "Score 3 victory points each time you successfully complete the following psychic action:\n            \n            Psychic Interrogation (Psychic Action - Warp Charge 4): One Psyker Character unit from your army can attempt to perform this psychic action in your Psychic phase if it is within 24\" of any enemy Character units.\n            \n            In addition, if the result of the Psychic test if equal to or greater than the Leadership characteristic of any enemy Character models within 24\" of the Psyker unit that completed this psychic action, you gain 1 Command point at the end of the phase.",
+         "category": "Warpcraft",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 111,
+         "name": "Behind enemy lines",
+         "description": "Score 2 victory points at the end of your turn if one unit from your army (excluding Aircraft units) is wholly within your opponent's deployment zone. Score 4 victory points at the end of your turn instead if two or more units from your army (excluding Aircraft units) are wholly within your opponent's deployment zone.",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 112,
+         "name": "Engage on all fronts",
+         "description": "Score 2 victory points at the end of your turn if you have one or more qualifying units (see below) from your army wholly within three different table quarters, and those units are all more than 6\" away from any other table quarter. Score 3 victory points instead if you have one or more qualifying units from your army whlly within each table quarter. A qualifying unit is one that has a Starting Strength of 3 or more models, or one that contains 1 or more Vehicle or Monster models (excluding Aircraft models).",
+         "category": "Battlefield supremacy",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 113,
+         "name": "Raise the banners high",
+         "description": "Raise Banners (Action): One or more Infantry units from your army can start to perform this action at the end of your Movement phase. Each uniit from your army that starts to perform this action must be within range of a different objective marker you control and that does not have one of your banners raised on it (see below). The action is completed at the end of your turn. If completed, that objective marker is said to have one of your army's banners raised on it (the banner is 'removed' if your opponent controls the objective marker at the start of any Command phase).\n            \n            Score 1 victory point at the end of each of your Command phases, and 1 victory point at the end of the battle, for each objective marker on the battlefield that has one of your banners raised on it.",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 0
+      },
+      {
+         "id": 114,
+         "name": "Retrieve nephilim data",
+         "description": "If you select this objective, keep a Retrieved Data tally. In addition, units from your army can attempt the following action:\n            \n            Retrieve Data (Action): One Infantry or Biker unit from your army can start to perform this action at the end of your Movement phase if it is wholly within a table quarter that has not had a servo-skull retrieved by your army (see below) and it is more than 6\" away from any other table quarter. This action is completed at the end of your turn provided the unit performing it is still within the same table quarter. If completed, roll one D6, substracting 1 from the result if the unit that completed the action has the Troops Battlefield Role: if the result is less than or equal to the number of models currently in that unit, that table quarter is said to have had a servo-skull retrieved by your army and you add 1 to your Retrieved Data tally.\n            \n            A the end of the battle, score 4 victory points if your Retrieved Data tally is 2, score 8 victory points if your tally is 3, or 12 victory points if your tally is 4.",
+         "category": "Shadow Operations",
+         "selected": false,
+         "faction": 0
+      }
+   ],
+   "factions": [
+      {
+         "id": 1,
+         "name": "Adeptus Astartes"
+      },
+      {
+         "id": 2,
+         "name": "Black Templars"
+      },
+      {
+         "id": 3,
+         "name": "Blood Angels"
+      },
+      {
+         "id": 4,
+         "name": "Dark Angels"
+      },
+      {
+         "id": 5,
+         "name": "Deathwatch"
+      },
+      {
+         "id": 6,
+         "name": "Imperial Fists"
+      },
+      {
+         "id": 7,
+         "name": "Iron Hands"
+      },
+      {
+         "id": 8,
+         "name": "Raven Guard"
+      },
+      {
+         "id": 9,
+         "name": "Salamanders"
+      },
+      {
+         "id": 10,
+         "name": "Space Wolfs"
+      },
+      {
+         "id": 11,
+         "name": "Ultramarines"
+      },
+      {
+         "id": 12,
+         "name": "White Scars"
+      },
+      {
+         "id": 13,
+         "name": "Adepta Sororitas"
+      },
+      {
+         "id": 14,
+         "name": "Adeptus Custodes"
+      },
+      {
+         "id": 15,
+         "name": "Adeptus Mechanicus"
+      },
+      {
+         "id": 16,
+         "name": "Astra Militarum"
+      },
+      {
+         "id": 17,
+         "name": "Imperial Knights"
+      },
+      {
+         "id": 18,
+         "name": "Grey Knights"
+      },
+      {
+         "id": 19,
+         "name": "Traitoris Astartes"
+      },
+      {
+         "id": 20,
+         "name": "Alpha Legion"
+      },
+      {
+         "id": 21,
+         "name": "Black Legion"
+      },
+      {
+         "id": 22,
+         "name": "Creations of Bile"
+      },
+      {
+         "id": 23,
+         "name": "Emperor's Children"
+      },
+      {
+         "id": 24,
+         "name": "Iron Warriors"
+      },
+      {
+         "id": 25,
+         "name": "Knight Lords"
+      },
+      {
+         "id": 26,
+         "name": "Red Corsairs"
+      },
+      {
+         "id": 27,
+         "name": "Word Bearers"
+      },
+      {
+         "id": 28,
+         "name": "World Eaters"
+      },
+      {
+         "id": 29,
+         "name": "Death Guard"
+      },
+      {
+         "id": 30,
+         "name": "Thousand Sons"
+      },
+      {
+         "id": 31,
+         "name": "Chaos Knights"
+      },
+      {
+         "id": 32,
+         "name": "Chaos Daemons"
+      },
+      {
+         "id": 33,
+         "name": "Asuryani"
+      },
+      {
+         "id": 34,
+         "name": "Drukhari"
+      },
+      {
+         "id": 35,
+         "name": "Harlequins"
+      },
+      {
+         "id": 36,
+         "name": "Tyranids Hice Tendril"
+      },
+      {
+         "id": 37,
+         "name": "GEnestealer Cults"
+      },
+      {
+         "id": 38,
+         "name": "Necrons"
+      },
+      {
+         "id": 39,
+         "name": "Orks"
+      },
+      {
+         "id": 40,
+         "name": "T'au Empire"
+      }
+   ],
+   "enemyInfo": [
+      {
+         "id": 1,
+         "secondaryMission_1": null,
+         "secondaryMission_2": null,
+         "secondaryMission_3": null,
+         "mainMission": 0,
+         "faction": 0,
+         "totalPoints": 10,
+         "commandPoints": 0,
+         "enemy": true
+      }
+   ],
+   "allyInfo": [
+      {
+         "id": 1,
+         "secondaryMission_1": null,
+         "secondaryMission_2": null,
+         "secondaryMission_3": null,
+         "mainMission": 0,
+         "faction": 0,
+         "totalPoints": 10,
+         "commandPoints": 0,
+         "enemy": false
+      }
+   ]
+}

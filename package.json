@@ -1,0 +1,21 @@
+{
+   "name": "w40k_mission_log_graphql_server",
+   "version": "1.0.0",
+   "description": "",
+   "type": "module",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "json-server": "json-server --watch db.json --port 3001",
+      "start": "nodemon index.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "apollo-server": "^3.11.1",
+      "axios": "^1.2.2",
+      "json-server": "^0.17.1",
+      "nodemon": "^2.0.20"
+   }
+}
